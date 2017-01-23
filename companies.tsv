@@ -1,0 +1,75 @@
+cx	cy	capitalization	earnings	taxes	x	y	sector	name	alias	symbol
+0	0	12500	145	0.001	-15	0	Mobile	AllCode		
+10	-7	25000	145	0.015	-6	0	Mobile	XV Establishment
+10	7	25000	145	0.015	0	0	Education	Homeroom
+24	0	37500	145	0.02	-15	0	Enterprise software	Vivev
+22	-16	37500	145	0.02	-3	0	Enterprise software	SportChirp
+22	16.7	37500	145	0.02	5	0	Mobile	Ridepad
+38	-10	37500	145	0.02	18	0	Mobile	Ideal Impact
+35.7	-26.2	37500	145	0.02	9	0	Enterprise software	ChatLingual
+39	8.2	50000	145	0.028	21	0	Enterprise software	PalleTech
+52	-22.6	50000	145	0.03	32	0	Mobile	Spoken.ly
+81	19	50000	145	0.03	0	0	Ecommerce	gamejoule
+55	-4	50000	145	0.03	35	0	Enterprise software	DirectLED
+70.2	-19.9	50000	145	0.035	47	0	Mobile	Moskeedo
+97	4.9	62500	145	0.04	18	0	Education	Tabacus Initiative
+91	-16	62500	145	0.04	63	0	Mobile	SelectGol
+86	-37	62500	145	0.045	80	0	Mobile	TravelTag
+65	-39.2	62500	145	0.05	20	0	Ecommerce	MotuX
+75	-1	62500	145	0.05	98	0	Mobile	Green Lake Technologies
+59	16	75000	145	0.06	41	0	Education	Scholly
+117	14.2	75000	145	0.06	116	0	Mobile	Iconicly
+110	-36	87500	145	0.075	51	0	Enterprise software	QuickComply
+115	-11	87500	145	0.075	136	0	Mobile	Jolie
+79	-60.5	100000	145	0.08	70	0	Enterprise software	Caylent		
+90	-86	100000	145	0.08	0	0	Healthcare	CareSpotter	
+108	-63	125000	145	0.1	157	0	Mobile	Wurbal	
+137.5	-30.1	125000	173	0.1	180	0	Mobile	Jagger
+139	32	125000	145	0.1	30	0	Healthcare	Docz
+141	0	125000	145	0.1	91	0	Enterprise software	Crowdplat
+138	-61	125000	145	0.1	62	0	Healthcare	CNS Therapy
+125	-89	125000	145	0.1	203	0	Mobile	airtimeUp
+165	-47	137500	145	0.115	114	0	Enterprise software	Motion FX Systems
+164	-80	137500	145	0.115	94	0	Healthcare	ClinicNote
+168	-15	137500	145	0.12	138	0	Enterprise software	Solenica
+168	18	137500	145	0.12	226	0	Mobile	SlideMail
+196	37.2	150000	145	0.125	162	0	Enterprise software	Tilt365
+198	-29.9	150000	145	0.125	187	0	Enterprise software	Mobingi
+198	3	150000	145	0.125	212	0	Enterprise software	Metadata
+194	-63.9	150000	145	0.125	251	0	Mobile	Jio
+228	23	162500	145	0.1	277	0	Mobile	Jagger
+230	-13	162500	145	0.2	129	0	Healthcare	Healfies
+227	-50.5	162500	145	0.2	68	0	Education	Athena Network
+262	-34.1	200000	145	0.25	5	0	Games	Storium
+258	-72.8	200000	145	0.25	51	0	Ecommerce	Kitables
+263	4	200000	145	0.285	238	0	Enterprise software	Tronic
+298	-15.6	212500	145	0.3	305	0	Mobile	switchedOn
+297	25	212500	145	0.30	335	0	Mobile	SportConnect
+297	-56.1	212500	145	0.325	267	0	Enterprise software	SideDolla
+333	45.5	212500	145	0.35	296	0	Enterprise software	Xoult
+333	5.5	212500	145	0.35	91	0	Ecommerce	AwesomeBox
+334	-36	225000	145	0.4	325	0	Enterprise software	Vuevent
+370	25.6	225000	145	0.4	365	0	Mobile	Freedom	
+371	-16.4	225000	145	0.4	395	0	Mobile	Ferro Technologies
+406	49.2	237500	145	0.5	355	0	Enterprise software	ParleyPro
+371	-59.2	237500	145	0.5	385	0	Enterprise software	XCo Tech
+409	-37.7	237500	145	0.5	416	0	Enterprise software	HelpCrunch
+408	6	237500	145	0.51	100	0	Education	EduFrame
+445	-12.5	250000	145	0.56	425	0	Mobile	Sober Grid
+445	30.2	250000	145	0.675	447	0	Enterprise software	MonkeyLearn
+486	-36	300000	145	0.7	458	0	Mobile	ZabCab
+486	53	300000	145	0.7	170	0	Healthcare	Vivid Vision
+445	-59.3	300000	145	0.7	140	0	Education	Hotshot
+486	8.6	300000	145	0.7	492	0	Mobile	BlitzChat
+485	-82.3	300000	145	0.75	480	0	Enterprise software	Travelytix
+530	32	325000	145	0.84	515	0	Enterprise software	Servy
+530	-65	325000	145	0.9	550	0	Enterprise software	Viviso
+530	-17.1	325000	145	1	217	0	Healthcare	Luminate Health
+570	8	350000	145	1.05	587	0	Enterprise software	TalentIQ
+570	53	350000	145	1.2	625	0	Enterprise software	Riddle
+570	-39.4	350000	145	1.2	663	0	Enterprise software	Localize
+570	-82.3	350000	145	1.4	528	0	Mobile	Dockwa
+530	-110	350000	145	1.4	700	0	Enterprise software	Alpha
+615	-64.1	375000	145	3	50	0	Games	Zodiac
+615	-12.5	375000	145	1.5	737	0	Enterprise software	ValiMail
+615	35	400000	145	1.5	141	0	Education	Dabble
